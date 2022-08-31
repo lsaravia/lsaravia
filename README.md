@@ -24,7 +24,7 @@ I am a scientific researcher 🔭 who works at at CADIC - CONICET, that is, at :
     
     - Soil mesofauna trophic networks/resources: https://doi.org/10.1101/2021.02.06.430061
     
-    - Fisheries on the food web of the San Jorge Gulf Patagonia: https://www.researchsquare.com/article/rs-1218284/v1
+    - Fisheries on the food web of the San Jorge Gulf Patagonia: https://www.nature.com/articles/s41598-022-14363-y
 
 <!--
 **lsaravia/lsaravia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Git
