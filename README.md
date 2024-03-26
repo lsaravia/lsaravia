@@ -14,7 +14,7 @@ I am a scientific researcher 🔭 who works at at CADIC - CONICET, that is, at :
 
 -  I’m currently working on 
 
-    - Weddell Sea Food Web: https://www.researchgate.net/publication/361440408_New_insights_into_the_Weddell_Sea_ecosystem_applying_a_network_approach
+    - Weddell Sea Food Web: [New_insights_into_the_Weddell_Sea_ecosystem_applying_a_network_approach](https://doi.org/10.5194/os-20-141-2024)
     
     - Forest fires in amazonas:  https://doi.org/10.32942/osf.io/nr23w
     
